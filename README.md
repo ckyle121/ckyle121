@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **carolinekyle21@gmail.com**
 
-- 🚲 **I love to ride bicycles**
+- 🚲 I love to ride bicycles
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
