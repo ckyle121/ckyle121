@@ -1,15 +1,15 @@
 <h1 align="center">Howdy 👋, I'm Caroline</h1>
 <h3 align="center">Here to push the limits of technology.</h3>
 
-- 🔭 I’m currently working on [Read Social](https://github.com/ckyle121/ReadSocial)
+- 🔭 I’m currently working on **I am a self starter, focused on self-improvement.**
 
 - 🌱 I’m currently learning **Java & Springboot**
 
-- 👨‍💻 All of my projects are available at [https://carolinekyle.netlify.app/](https://carolinekyle.netlify.app/)
+- 💁‍♀️ All of my projects are available at [https://carolinekyle.netlify.app/](https://carolinekyle.netlify.app/)
 
 - 📫 How to reach me **carolinekyle21@gmail.com**
 
-- 🚲 I love to ride bicycles
+- 🚲 Fun fact **I love to ride bicycles**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
