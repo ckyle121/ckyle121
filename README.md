@@ -1,7 +1,7 @@
 <h1 align="center">Howdy 👋, I'm Caroline</h1>
 <h3 align="center">Here to push the limits of technology.</h3>
 
-- 🔭 I’m currently working on **I am a self starter, focused on self-improvement.**
+- 🔭 I am a self starter, focused on self-improvement.
 
 - 🌱 I’m currently learning **Java & Springboot**
 
