@@ -1,4 +1,4 @@
-<h1 align="center">Hi There 👋, I'm Caroline</h1>
+<h1 align="center">Howdy 👋, I'm Caroline</h1>
 <h3 align="center">Let's connect and create something great together.</h3>
 
 - 🔭 I am a self starter, focused on self-improvement.
